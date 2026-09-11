@@ -1,0 +1,32 @@
+body{
+    color:white;
+    background:black;
+    margin: opx;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: solid rgb(red, green, blue);
+    padding: 20px;
+    font-size: 32;
+    color: rgb(red, green, blue)
+    
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+h1{
+    font-size: 40%;
+}
+p{
+    font-size: 40px;
+}
+.categoria-videos {
+    display: flax;
+    overflow-x: auto;
+    gap: 10xp;
+}
+.categoria {
+    padding-left: 20xp;
+    padding-right: 20xp;
+    margin-top: 50xp;
+}
